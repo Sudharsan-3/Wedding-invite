@@ -9,8 +9,8 @@
 		var settings = $.extend({
 			date: null,
 			offset: null,
-			day: 'day',
-			days: 'days',
+			day: 'Day',
+			days: 'Days',
 			hour: 'hour',
 			hours: 'hours',
 			minute: 'minute',

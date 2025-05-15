@@ -10,7 +10,7 @@
 			date: null,
 			offset: null,
 			day: 'day',
-			days: 'days',
+			days: 'Days',
 			hour: 'hour',
 			hours: 'hours',
 			minute: 'minute',
